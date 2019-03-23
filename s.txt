@@ -1,2 +1,6 @@
 hiiii
 this is new git file
+
+
+changes in s.txt
+
